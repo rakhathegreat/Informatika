@@ -1,3 +1,1 @@
 # Informatika
-
-# Informatika 2
