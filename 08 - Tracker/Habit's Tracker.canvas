@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"43fea7e515e05bd9","type":"group","x":60,"y":500,"width":463,"height":700,"label":"Sholat 5 waktu"},
+		{"id":"45a089b88e9e6491","type":"group","x":1100,"y":-260,"width":475,"height":656,"label":"Studying"},
+		{"id":"668106df975325a0","type":"group","x":60,"y":-260,"width":465,"height":660,"label":"Reading"},
+		{"id":"bc8d52b17a471733","type":"group","x":580,"y":-260,"width":464,"height":660,"label":"Running"},
+		{"id":"516becf77995cd3f","type":"text","text":"","x":693,"y":60,"width":250,"height":60},
+		{"id":"9b98836302b1e154","type":"text","text":"``` tracker\nsearchType: task.done\nsearchTarget: Reading\nfolder: 07 - Daily\ndatasetName: Reading\nmonth:\n\tstartWeekOn: 'Mon'\n```","x":80,"y":-240,"width":425,"height":500},
+		{"id":"53b832208d1c1705","type":"text","text":"``` tracker\nsearchType: task.done\nsearchTarget: Running\nfolder: 07 - Daily\ndatasetName: Running\nstartDate: 01 January 2025\nmonth:\n\tstartWeekOn: 'Mon'\n```","x":600,"y":-240,"width":424,"height":500},
+		{"id":"6ad71cf4c121e9a8","type":"text","text":"### **Sholat 5 waktu**\n---\n``` tracker\nsearchType: task.done\nsearchTarget: Sholat 5 waktu\nfolder: 07 - Daily\ndatasetName: Sholat 5 waktu\nstartDate: 01 January 2025\nmonth:\n\tstartWeekOn: 'Mon'\n```","x":80,"y":520,"width":423,"height":540},
+		{"id":"12de3b4b80af15f1","type":"text","text":"``` tracker\nsearchType: task.done\nsearchTarget: Sholat 5 waktu\nfolder: 07 - Daily\ndatasetName: Reading\nsummary:\n    template: \"Longest streak: {{maxStreak()}} days\\nLongest Breaks: {{maxBreaks()}} days\\nCurrent Streak: {{currentStreak()}} days\"\n```","x":80,"y":1080,"width":420,"height":100},
+		{"id":"d328b45c0ce61849","type":"text","text":"``` tracker\nsearchType: task.done\nsearchTarget: Reading\nfolder: 07 - Daily\ndatasetName: Reading\nsummary:\n    template: \"Longest streak: {{maxStreak()}} days\\nLongest Breaks: {{maxBreaks()}} days\\nCurrent Streak: {{currentStreak()}} days\"\n```","x":80,"y":280,"width":425,"height":100},
+		{"id":"434b91a904082042","type":"text","text":"``` tracker\nsearchType: task.done\nsearchTarget: Studying\nfolder: 07 - Daily\ndatasetName: Studying\nstartDate: 01 January 2025\nmonth:\n\tstartWeekOn: 'Mon'\n```","x":1120,"y":-240,"width":435,"height":500},
+		{"id":"9cd43e40d428ce2a","type":"text","text":"``` tracker\nsearchType: task.done\nsearchTarget: Reading\nfolder: 07 - Daily\ndatasetName: Reading\nsummary:\n    template: \"Longest streak: {{maxStreak()}} days\\nLongest Breaks: {{maxBreaks()}} days\\nCurrent Streak: {{currentStreak()}} days\"\n```","x":600,"y":280,"width":421,"height":100},
+		{"id":"ed4062a78ce87df7","type":"text","text":"``` tracker\nsearchType: task.done\nsearchTarget: Reading\nfolder: 07 - Daily\ndatasetName: Reading\nsummary:\n    template: \"Longest streak: {{maxStreak()}} days\\nLongest Breaks: {{maxBreaks()}} days\\nCurrent Streak: {{currentStreak()}} days\"\n```","x":1120,"y":280,"width":433,"height":96}
+	],
+	"edges":[]
+}
