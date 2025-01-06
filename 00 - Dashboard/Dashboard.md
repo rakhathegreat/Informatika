@@ -6,11 +6,14 @@ banner_y: 0.18
 ---
 ## ⚙️ **DASHBOARD**
 
+#### Menu
+---
+- 
 #### 🎓 Kuliah 
 ---
-Jadwal Kuliah
+##### 🕰️ Jadwal Kuliah
 
-Tugas
+##### 📚 Tugas
 ```dataview
 TABLE MataKuliah as "Mata Kuliah", Selesai, Deadline, Catatan
 from "01 - Kuliah" AND #kuliah/tugas
