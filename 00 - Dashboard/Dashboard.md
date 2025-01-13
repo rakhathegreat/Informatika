@@ -94,6 +94,30 @@ toDate: 2025-12-31
 cellStyleRules: []
 
 ```
+##### **Note's Taking**
+```contributionGraph
+title: ""
+graphType: default
+dateRangeValue: 180
+dateRangeType: FIXED_DATE_RANGE
+startOfWeek: 0
+showCellRuleIndicators: true
+titleStyle:
+  textAlign: left
+  fontSize: 15px
+  fontWeight: normal
+dataSource:
+  type: PAGE
+  value: ""
+  dateField: {}
+fillTheScreen: false
+enableMainContainerShadow: false
+fromDate: 2025-01-01
+toDate: 2025-12-31
+cellStyleRules: []
+
+```
+
 #### 🗓️ Acara
 ---
 ```dataview

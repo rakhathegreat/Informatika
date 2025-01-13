@@ -2,7 +2,9 @@
 cssclasses:
   - h1-center
   - indent
-tags: 
+tags:
+  - "#webdeveloper"
+  - "#laravel"
 Tanggal: 2025-01-06
 ---
 # **Database Factory dan Seeder**
